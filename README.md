@@ -1,22 +1,46 @@
-# Static Website on AWS EC2
+# Static Website Hosted on AWS EC2
 
-This project shows how I hosted a static HTML/CSS website using Apache server on an AWS EC2 instance.
+This project demonstrates how to host a fully responsive static HTML/CSS website using an Amazon EC2 instance and Apache web server.
 
-## 🔧 Technologies Used
-- AWS EC2 (Amazon Linux 2)
-- Apache Web Server
-- HTML + CSS
-- PuTTY & WinSCP
-- Linux commands (yum, sudo, mv)
+## 🚀 Project Overview
 
-## 🚀 How It Works
-1. Launched EC2 and installed Apache
-2. Uploaded `index.html` using WinSCP
-3. Moved it to `/var/www/html/`
-4. Viewed live site at EC2 public IP
+As a beginner in cloud computing, I deployed a static website using AWS EC2 and configured a Linux-based Apache server for hosting. The project helped me gain practical experience in launching cloud servers, using SSH, and transferring files securely.
 
-## 🌐 Live Site
-`http://<your-ec2-ip>`
+## 🧰 Technologies Used
 
-## 📘 Author
-Om Darji
+- **AWS EC2** (Amazon Linux 2)
+- **Apache Web Server**
+- **HTML + CSS**
+- **PuTTY** (SSH client)
+- **WinSCP** (SCP/SFTP client)
+- **Linux terminal commands**
+
+## 🔧 Steps Performed
+
+1. Launched an EC2 instance (t2.micro - Free Tier)
+2. Installed Apache server using Linux commands
+3. Configured inbound rules to allow HTTP (port 80)
+4. Uploaded the `index.html` file using WinSCP
+5. Moved the file to Apache's web root (`/var/www/html`)
+6. Verified the website live on browser using public IP
+
+## 🌐 Live Demo
+
+> http://52.91.201.158
+
+*(Replace this with your actual IP while your EC2 instance is running)*
+
+## 📂 Repository Contents
+
+| File         | Description                          |
+|--------------|--------------------------------------|
+| index.html   | Main webpage (HTML + inline CSS)     |
+| README.md    | Project description and instructions |
+
+## ✍️ Author
+
+**Om Darji**  
+*Cloud & Web Dev Enthusiast | Fresher*
+
+---
+
