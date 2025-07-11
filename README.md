@@ -38,13 +38,12 @@ As a beginner in cloud computing, I deployed a static website using AWS EC2 and 
 | README.md    | Project description and instructions |
 
 ## ✍️ Author
+**Om Darji**  
+*Cloud & Web Dev Enthusiast | Fresher*
 ## 📸 Website Preview
 
 ![Website Screenshot](Screenshot.png)
 
 
-**Om Darji**  
-*Cloud & Web Dev Enthusiast | Fresher*
 
----
 
