@@ -40,7 +40,7 @@ As a beginner in cloud computing, I deployed a static website using AWS EC2 and 
 ## ✍️ Author
 ## 📸 Website Preview
 
-![Website Screenshot](Screenshot today.png)
+![Website Screenshot](Screenshottoday.png)
 
 
 **Om Darji**  
