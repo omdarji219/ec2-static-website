@@ -26,7 +26,7 @@ As a beginner in cloud computing, I deployed a static website using AWS EC2 and 
 
 ## 🌐 Live Demo
 
-> http://107.22.154.131
+>  https://omdarji219.github.io/ec2-static-website/
 
 *(Replace this with your actual IP while your EC2 instance is running)*
 
